@@ -1,0 +1,19 @@
+{
+  "name": "callbacks",
+  "version": "1.0.0",
+  "description": "Understanding callbacks in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgiudatto/callbacks.git"
+  },
+  "author": "hgiudatto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgiudatto/callbacks/issues"
+  },
+  "homepage": "https://github.com/hgiudatto/callbacks#readme"
+}
